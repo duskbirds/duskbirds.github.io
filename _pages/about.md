@@ -14,5 +14,5 @@ redirect_from:
 
 关于未来，准备考研，至于方向尚且不知。
 
-[Email](https://duskbirds@foxmail.com) / [Github](https://github.com/duskbirds) 
+[CSDN](https://blog.csdn.net/duskbirds?type=blog) / [Github](https://github.com/duskbirds) 
 
